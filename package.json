@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "apollo-server-express": "^2.24.0",
+    "bcrypt": "^5.0.1",
+    "bcrypt-nodejs": "^0.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.1",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "graphql-depth-limit": "^1.1.0",
+    "graphql-iso-date": "^3.6.1",
+    "graphql-validation-complexity": "^0.4.2",
+    "gravatar": "^1.8.1",
+    "helmet": "^4.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mongoose": "^5.12.7",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"    
+  }
+  }
